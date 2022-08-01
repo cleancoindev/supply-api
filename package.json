@@ -20,6 +20,6 @@
   "homepage": "https://github.com/1hive/supply-api#readme",
   "dependencies": {
     "micro": "^9.3.4",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.2.10"
   }
 }
